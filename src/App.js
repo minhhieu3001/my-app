@@ -11,9 +11,9 @@ function App() {
     channel: "test1",
     // Pass your temp token here.
     token:
-      "007eJxTYEiasXHqo3S530wn3P15Su1jN7S1lou/CL7/y7+TP1pArlSBwcIk1czCxCwt0TQ50cQ42cwiLdXU2CQ1KcXSNMnE3NhgkdGr5IZARoYQTVYmRgYIBPFZGUpSi0sMGRgAB18dtg==",
+      "007eJxTYLiou6e9flPAd6d7gV4ltTwbJFLePwl+bLh+Yc78giijs98VGCxMUs0sTMzSEk2TE02Mk80s0lJNjU1Sk1IsTZNMzI0N2JxeJzcEMjIcadnIyMgAgSA+K0NJanGJIQMDANu7ITI=",
     // Set the user ID.
-    uid: "1902",
+    uid: "wweb",
   };
 
   const rtc = {
